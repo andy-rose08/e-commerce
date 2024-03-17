@@ -154,7 +154,7 @@ const AccountForm: React.FC = () => {
         disabled={isLoading}
         appearance="primary"
         className={classes.submit}
-      />
+      ></Button>
     </form>
   )
 }
